@@ -1,0 +1,5 @@
+{
+  "getUserApiEndpoint": "https://randomuser.me/api/?results=1000",
+  "postUserApiEndpoint": "https://localhost:7275/api/User/SignUp",
+  "firstPassword": ""
+}
